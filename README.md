@@ -1,5 +1,7 @@
 # Wazuh EDR TryHackMe Room Write-up
 
+<img width="401" height="411" alt="image" src="https://github.com/user-attachments/assets/489b0f17-f932-47df-a08c-07cbf1473b50" />
+
 Welcome to my write-up on Wazuh, an open-source and enterprise-ready endpoint detection and response (EDR) solution. In this repository, I cover the practical steps of deploying Wazuh, managing agents, performing vulnerability assessments, and monitoring security events.
 
 ## Table of Contents
@@ -39,10 +41,6 @@ In this section, we explore Wazuh's ability to audit agent configurations agains
 ## Monitoring Logons with Wazuh
 
 Wazuh’s monitoring tools capture both successful and unsuccessful login attempts, providing insights into authentication activities on devices. This section demonstrates how to configure and review login attempts.
-<img width="1461" height="395" alt="image" src="https://github.com/user-attachments/assets/699c186b-79cd-4187-8e98-6497543eab66" />
-
-<img width="401" height="411" alt="image" src="https://github.com/user-attachments/assets/5ff4fb50-989e-425a-9185-b910ab6b269c" />
-
 
 ## Collecting Windows Logs with Wazuh
 
